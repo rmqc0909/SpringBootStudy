@@ -1,0 +1,20 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+.gitignore
+.idea/
+
+mvnw
+mvnw.cmd
+
+ch5_2/.mvn/
+ch6_2_3/.mvn/
+pom.xml
+src/
+ch5_2/ch5_2.iml
+ch5_2/src/main/resources/static/
+ch5_2/src/main/resources/templates/
+ch5_2/target/
+ch6_2_3/ch6_2_3.iml
+ch6_2_3/src/main/resources/static/
+ch6_2_3/src/main/resources/templates/
+ch6_2_3/target/

@@ -8,7 +8,6 @@ mvnw.cmd
 
 ch5_2/.mvn/
 ch6_2_3/.mvn/
-pom.xml
 src/
 ch5_2/ch5_2.iml
 ch5_2/src/main/resources/static/

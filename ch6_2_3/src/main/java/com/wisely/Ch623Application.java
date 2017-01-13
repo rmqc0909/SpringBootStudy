@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @SpringBootApplication
 public class Ch623Application {
+
 	@Autowired
 	private AuthorSettings authorSettings;
 	public static void main(String[] args) {
